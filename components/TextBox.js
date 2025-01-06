@@ -46,9 +46,9 @@ const styles = StyleSheet.create({
   textInput: {
     flex: 1,
     width: "90%",
-    height: 45,
+    marginBottom: 40,
     alignSelf: "center",
-    backgroundColor: "white",
+    backgroundColor: "transparent",
     borderRadius: 10,
     borderColor: "transparent",
     textAlignVertical: "top",
